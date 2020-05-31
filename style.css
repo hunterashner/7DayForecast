@@ -1,0 +1,49 @@
+body {
+    background-color: whitesmoke;
+    margin: auto;
+    text-align: center;
+}
+
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+    font-size: 4em;
+    margin-top: 2%;
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2.5em;
+    font-weight: bolder;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2em;
+}
+
+img {
+    height: auto;
+    width: 20%;
+}
+
+.jumbotron {
+    background-color: lightsteelblue;
+}
+
+hr {
+    
+    width: 10%;
+    margin-bottom: 20%;
+}
+
+#towrite {
+    margin: auto;
+    width: 50%;
+}
+
+.weatherpic {
+    width: 30%;
+    margin-bottom: 10%;
+}
